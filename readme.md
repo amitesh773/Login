@@ -27,7 +27,7 @@ This project is the server-side backend API for an Login platform. It is built w
 
 ## 📁 Folder Structure
 
-ecommerce-backend/
+login-backend/
 ├── config/
 ├── controllers/
 ├── middlewares/
