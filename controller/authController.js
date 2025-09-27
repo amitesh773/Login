@@ -2,7 +2,7 @@
 const Bcrypt = require('bcrypt') 
 //----------------------------------JWT-------------------------------------
 const jwt = require('jsonwebtoken')
-const User = require('../modules/user')
+const User = require('../module/User')
 const userValidation = require('../validation/userValidation')
 
 const registreUser = async(req,res)=>{
